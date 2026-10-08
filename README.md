@@ -74,7 +74,7 @@ The important point is that `manage.py` is located inside the `devops` directory
 Clone the repository:
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+https://github.com/NSK-Y/django-docker-deployment.git
 ```
 
 Move into the project directory:
